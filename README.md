@@ -14,11 +14,11 @@ The project combines an **Arduino Uno R3, four pushbuttons, four LEDs, a piezo b
 
 ### Circuit Schematic
 
-![FlashMatch Circuit Schematic](images/circuit-schematic.png)
+![FlashMatch Circuit Schematic]()
 
 ### Component List
 
-![FlashMatch Components](images/components.png)
+![FlashMatch Components](https://github.com/Harvey-Bui/Arduino-Memory-Game/blob/8c08f4385efdb24efca36c970808ae23aa5ce725/Screenshot%202026-08-05%20224201.png)
 
 ---
 

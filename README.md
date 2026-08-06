@@ -10,8 +10,7 @@ The project combines an **Arduino Uno R3, four pushbuttons, four LEDs, a piezo b
 
 ### Breadboard Implementation
 
-![FlashMatch Arduino Memory Game](<img width="1110" height="1114" alt="image" src="https://github.com/user-attachments/assets/ad07c378-4ea4-4bcc-8536-f72a312c7c14" />
-)
+![FlashMatch Arduino Memory Game](https://github.com/Harvey-Bui/Arduino-Memory-Game/blob/1cf9f51d6761bb255730249c564b98ee0976b4b5/Screenshot%202026-08-05%20224221.png)
 
 ### Circuit Schematic
 

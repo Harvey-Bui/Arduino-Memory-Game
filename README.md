@@ -453,17 +453,7 @@ Supporting Functions
 
 ---
 
-# 🖥️ Circuit Design
 
-The circuit was designed using **Tinkercad** and implemented around an Arduino Uno R3.
-
-### Complete Schematic
-
-![FlashMatch Circuit Schematic](images/circuit-schematic.png)
-
-### Breadboard Layout
-
-![FlashMatch Breadboard Layout](images/arduino-memory-game.png)
 
 ---
 
@@ -671,7 +661,8 @@ This project was developed as a **group Arduino project**.
 ### Contributors
 
 - **Bui Le Hoang Hai**
-- Add additional team members here
+- **Huynh Duc Manh**
+- **Sebastian Britt**
 
 ---
 
